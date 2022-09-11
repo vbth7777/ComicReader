@@ -12,6 +12,8 @@
 - k: Scroll up
 - i: Zoom out
 - o: Zoom in
+- n: Next chapter (folder)
+- p: Previous chapter (folder)
 ## Images
 #### Home
 ![Home](./ComicReader/Image/home.png)
