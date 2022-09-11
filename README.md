@@ -15,9 +15,9 @@
 - n: Next chapter (folder)
 - p: Previous chapter (folder)
 ## Images
-#### Home
+### Home
 ![Home](./ComicReader/Image/home.png)
-#### Tree View
+### Tree View
 ![Tree View](./ComicReader/Image/treeView.png)
-#### View Path
+### View Path
 ![Edit Selectors Image](./ComicReader/Image/viewPath.png)
