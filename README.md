@@ -7,7 +7,11 @@
 - Chapter next/previous button
 - Zoom up/down images of chapter
 - View path to see current choosing path
-
+### Keys:
+j: Scroll down
+k: Scroll up
+i: Zoom out
+o: Zoom in
 ## Images
 #### Home
 ![alt text](./ComicReader/Image/home.png)
